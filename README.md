@@ -1,5 +1,5 @@
 <p align="center">
-☆ ꕀꕀꕀ ☆
+・・・・・
 </p>
 
 <p align="center">
@@ -10,5 +10,5 @@
 ・・・・・
 </p>
 <p align="center">
-lmao im lazy ill maybe add links some day (no)
+lmao im lazy ill maybe add links some day
 </p>
