@@ -1,6 +1,1 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/59d188ad-ea93-42a2-bbdd-e31e565d678f"width="400">
-</p>
-<p align="center">
-someone tell me how readme and the comands work bro
-</p>
+![ec962fdffb98e4d34704ea6173647f9f](https://github.com/user-attachments/assets/50abfee0-ebdb-4388-828b-d56bf231dac5)
